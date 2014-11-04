@@ -35,7 +35,6 @@ private:
     static std::string cleanup_str(const std::string&);
 
     std::vector<std::string> lines_of_text;
-    // 单词 与 所在行号 的映射
     std::map<std::string, std::set<line_no> > word_map;
 };
 #endif // _TEXTQUERY_H_
