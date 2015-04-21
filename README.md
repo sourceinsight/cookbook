@@ -1,1 +1,1 @@
-some usefull recipes
+练习项目
